@@ -1,0 +1,6 @@
+diffusers
+transformers
+accelerate
+ftfy
+modin[all]
+invisible_watermark
